@@ -15,8 +15,8 @@
 
 ---
 
-## 📷 How It Looks
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/preview.png" width="600" alt="Overlay Preview" />
+## 📷 Preview
+<img src="https://media.discordapp.net/attachments/849191339076616233/1407412494502203543/image.png?ex=68a60287&is=68a4b107&hm=54dabda01c71b21943cdfde1af5a59bd075f3fe218274bc6242a515be781ca88&=&format=webp&quality=lossless" width="600" alt="Overlay Preview" />
 
 ---
 
@@ -31,6 +31,13 @@
 3. Open it in your browser → your userscript manager will ask to install.  
 
 4. Head over to [wplace.live](https://wplace.live) → upload a template → adjust opacity/coords → done! 🎉
+
+---
+
+## ⚠️ Known Issues
+- 🐒 **Tampermonkey bug**: For some users, the script does **not auto-run when installed** via Tampermonkey.  
+- ✅ **Workaround**: Copy the entire script and run it manually from the browser console (F12 → Console → paste → Enter).  
+- This seems related to Tampermonkey’s injection timing on Wplace — still investigating.  
 
 ---
 
